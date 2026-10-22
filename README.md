@@ -16,12 +16,14 @@ I'm **Douglas Gabriel Rocha**, based in Curitiba, Paraná (Brazil). I'm currentl
 
 ---
 
-<img align="right" alt="" height="190px" src="https://i.pinimg.com/originals/8d/f0/92/8df092c0fc89a404215470c36cd034a2.gif">
+<img align="right" alt="" height="190px" src="./src/perfil.gif">
 
 ### Connect with me! / Fale comigo!
 
 [![E-mail](https://img.shields.io/badge/-Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=8B5CF6)](mailto:glassrockvalle@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GlassRupert-0d0d0d?style=for-the-badge&logo=github&logoColor=8B5CF6)](https://github.com/GlassRupert)
+[![X](https://img.shields.io/badge/-@Toman__Dg-0d0d0d?style=for-the-badge&logo=x&logoColor=8B5CF6)](https://x.com/Toman_Dg)
+[![Instagram](https://img.shields.io/badge/-glassrup3rt.py-0d0d0d?style=for-the-badge&logo=instagram&logoColor=8B5CF6)](https://www.instagram.com/glassrup3rt.py)
 
 <br clear="right"/>
 
