@@ -1,111 +1,61 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+humble+profile.+%E2%8A%B9" alt="Typing SVG">
   </a>
 </div>
 
-#
+---
 
-Me chamo Paulo Queiroz, tenho 24 anos e moro em Juiz de Fora - MG. Atualmente curso Análise e Desenvolvimento de Sistemas na FIAP. Sou apaixonado por tecnologia, curioso sobre Hardware e compartilho meu conhecimento através do
-meu canal no YouTube "[PauloDev](https://www.youtube.com/@paulopontodev)".
- 
-#
+## 🇧🇷 Sobre mim
 
-<img align="right" alt="" height="190px" src="./src/edgerunners.gif">
+Me chamo **Douglas Gabriel Rocha** e moro em Curitiba - PR. Atualmente curso **Engenharia de Software** na **Uniasselvi**. Sou apaixonado por jogos e curioso sobre lógica.
 
-<h3 align="left">Connect with me!</h3>
+## 🇺🇸 About me
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:paulorobertodequeirozjr@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/paulopontodev/)
+I'm **Douglas Gabriel Rocha**, based in Curitiba, Paraná (Brazil). I'm currently studying **Software Engineering** at **Uniasselvi**. I'm passionate about games and curious about logic.
 
+---
 
-<h3 align="left">My Stack ~</h3>
+<img align="right" alt="" height="190px" src="https://i.pinimg.com/originals/8d/f0/92/8df092c0fc89a404215470c36cd034a2.gif">
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+### Connect with me! / Fale comigo!
 
-<img
-    align="left"
-    alt="Github"
-    title="GitHub"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-/>
+[![E-mail](https://img.shields.io/badge/-Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=8B5CF6)](mailto:glassrockvalle@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GlassRupert-0d0d0d?style=for-the-badge&logo=github&logoColor=8B5CF6)](https://github.com/GlassRupert)
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+<br clear="right"/>
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+---
 
-<img
-    align="left"
-    alt="Vercel"
-    title="Vercel"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"
-/>
-<br/>
-<br/>
+### My Stack ~ / Minha Stack ~
 
-<h3 align="left">GitHub Stats</h3>
+![HTML](https://img.shields.io/badge/-HTML-0d0d0d?style=for-the-badge&logo=html5&logoColor=8B5CF6)
+![CSS](https://img.shields.io/badge/-CSS-0d0d0d?style=for-the-badge&logo=css3&logoColor=8B5CF6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=8B5CF6)
+![Git](https://img.shields.io/badge/-Git-0d0d0d?style=for-the-badge&logo=git&logoColor=8B5CF6)
+![GitHub](https://img.shields.io/badge/-GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=8B5CF6)
+![Python](https://img.shields.io/badge/-Python-0d0d0d?style=for-the-badge&logo=python&logoColor=8B5CF6)
+![C](https://img.shields.io/badge/-C-0d0d0d?style=for-the-badge&logo=c&logoColor=8B5CF6)
+![SQL](https://img.shields.io/badge/-SQL-0d0d0d?style=for-the-badge&logo=sqlite&logoColor=8B5CF6)
+![Java](https://img.shields.io/badge/-Java-0d0d0d?style=for-the-badge&logo=openjdk&logoColor=8B5CF6)
+
+---
+
+### GitHub Stats
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=paulopontodev&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
+  <img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=GlassRupert&show_icons=true&hide=contribs&cache_seconds=21600&bg_color=0d0d0d&title_color=8B5CF6&text_color=C9C9C9&icon_color=8A9A5B&border_color=8A9A5B&ring_color=8B5CF6&custom_title=My%20GitHub%20Statistics"
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=paulopontodev&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
+  <img
+    align="left"
+    alt="Top Languages"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlassRupert&layout=compact&custom_title=Stack&langs_count=8&bg_color=0d0d0d&title_color=8B5CF6&text_color=C9C9C9&icon_color=8A9A5B&border_color=8A9A5B"
   />
-
 </p>
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake.svg">
-</picture>
